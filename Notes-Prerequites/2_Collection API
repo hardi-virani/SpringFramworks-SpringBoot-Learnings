@@ -1,0 +1,48 @@
+2️⃣ COLLECTION API (VERY IMPORTANT)
+
+Backend constantly uses collections.
+
+🔹 List
+
+Ordered collection. Allows duplicates.
+
+Basic Example :
+
+List<String> names = new ArrayList<>();
+names.add("Hardi");
+names.add("John");
+
+
+🔹 Set
+
+No duplicates.
+
+Basic Example :
+
+Set<String> ids = new HashSet<>();
+ids.add("101");
+ids.add("101"); // duplicate ignored
+
+
+🔹 Map (Most Important)
+
+Key-value storage.
+
+Basic Example :
+
+Map<String, String> user = new HashMap<>();
+user.put("name", "Hardi");
+user.put("role", "Admin");
+
+Backend uses Map for:
+	•	JSON data
+	•	Request parameters
+	•	Caching
+	•	DB mapping
+
+Just know how to:
+	•	Add
+	•	Get
+	•	Loop
+
+That’s enough.
