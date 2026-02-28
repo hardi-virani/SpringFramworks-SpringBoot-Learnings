@@ -10,3 +10,5 @@
 /httpRequests/
 
 # hardi
+.idea/
+*.iml
