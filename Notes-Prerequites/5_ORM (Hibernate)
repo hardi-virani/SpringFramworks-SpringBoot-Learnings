@@ -1,0 +1,35 @@
+5️⃣ ORM (Hibernate) — VERY IMPORTANT
+
+ORM = Object Relational Mapping.
+
+It converts:
+
+Java Object ↔ Database Table
+
+Example:
+
+Database:
+
+users
+id | name | email
+
+
+
+Java:
+@Entity
+public class User {
+
+    @Id
+    private Long id;
+
+    private String name;
+    private String email;
+}
+
+Hibernate automatically:
+	•	Converts object to SQL INSERT
+	•	Converts DB row to Java object
+
+You don’t write raw SQL most of the time.
+
+That’s enough for now.

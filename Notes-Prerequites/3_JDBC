@@ -1,0 +1,26 @@
+3️⃣ JDBC (Conceptual Understanding Only)
+
+JDBC = Java talking to database.
+
+Without Spring, this is how Java talks to DB:
+
+Connection con = DriverManager.getConnection(url, user, pass);
+PreparedStatement ps = con.prepareStatement("SELECT * FROM users");
+ResultSet rs = ps.executeQuery();
+
+while(rs.next()) {
+    System.out.println(rs.getString("name"));
+}
+
+Problems:
+	•	Too much boilerplate
+	•	Manual connection handling
+	•	Manual closing
+
+Spring simplifies this.
+
+But understand the flow:
+
+Java → SQL Query → Database → ResultSet → Java Objects
+
+That’s enough.

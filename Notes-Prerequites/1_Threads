@@ -1,0 +1,50 @@
+🔥 IMPORTANT
+
+Do NOT delay Spring course trying to master prerequisites.
+
+Learn them as needed.
+
+Example:
+
+When course shows:
+
+@Repository
+
+Pause → Google → Understand → Continue.
+
+That’s efficient learning.
+
+1️⃣ THREADS (Basic Understanding Only)
+
+🔹 What is a Thread?
+
+A thread = a unit of execution.
+
+Think like this:
+
+If 100 users call your API at same time,
+Spring server creates 100 threads to handle them.
+
+You don’t manually create threads in Spring normally.
+
+Just understand:
+	•	One request = one thread (usually)
+	•	Threads allow multiple users at same time
+
+Basic Example :
+
+public class ThreadExample {
+    public static void main(String[] args) {
+        Runnable task = () -> {
+            System.out.println("Hello from " + Thread.currentThread().getName());
+        };
+
+        Thread t = new Thread(task);
+        t.start();
+    }
+}
+
+That’s enough.
+
+You don’t need deep multithreading now.
+
