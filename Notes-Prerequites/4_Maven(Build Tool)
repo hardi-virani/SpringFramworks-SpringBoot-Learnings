@@ -1,0 +1,27 @@
+4️⃣ MAVEN (Build Tool)
+
+Maven does:
+	•	Download dependencies
+	•	Build project
+	•	Run project
+
+You define dependencies in:
+
+pom.xml
+
+Example :
+
+<dependency>
+    <groupId>org.springframework.boot</groupId>
+    <artifactId>spring-boot-starter-web</artifactId>
+</dependency>
+
+Then Maven downloads everything.
+
+
+Important commands:
+
+mvn clean install
+mvn spring-boot:run
+
+That’s all you need now.

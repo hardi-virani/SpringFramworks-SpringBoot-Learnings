@@ -1,0 +1,45 @@
+🧠 Backend Flow With Everything Combined
+
+Let’s see full picture.
+
+User calls:
+
+GET /users
+
+Spring:
+
+@RestController
+public class UserController {
+
+    @Autowired
+    private UserService service;
+
+    @GetMapping("/users")
+    public List<User> getUsers() {
+        return service.getAllUsers();
+    }
+}
+
+Service:
+
+@Service
+public class UserService {
+
+    @Autowired
+    private UserRepository repo;
+
+    public List<User> getAllUsers() {
+        return repo.findAll();
+    }
+}
+
+Repository:
+
+public interface UserRepository extends JpaRepository<User, Long> {
+}
+
+Hibernate generates SQL automatically.
+
+That is backend.
+
+
