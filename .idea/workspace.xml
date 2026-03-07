@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ff232666-28d6-47d4-ab54-078a9d6fb0cb" name="Changes" comment="Autowired" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
+    {
+      &quot;state&quot;: &quot;MERGED&quot;
+    }
+  ],
+  &quot;lastFilter&quot;: {}
+}</component>
+  <component name="GitHubPullRequestState">{
+  &quot;prStates&quot;: [
+    {
+      &quot;id&quot;: {
+        &quot;id&quot;: &quot;PR_kwDORZ1wKs7Gq6lM&quot;,
+        &quot;number&quot;: 2
+      },
+      &quot;lastSeen&quot;: 1772144027194
+    },
+    {
+      &quot;id&quot;: {
+        &quot;id&quot;: &quot;PR_kwDORZ1wKs7G1Sok&quot;,
+        &quot;number&quot;: 4
+      },
+      &quot;lastSeen&quot;: 1772201962077
+    }
+  ]
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/hardi-virani/SpringFramworks-SpringBoot-Learnings&quot;,
+    &quot;accountId&quot;: &quot;95cbe4f4-01a3-431a-a412-ff1025d3e6bd&quot;
+  },
+  &quot;recentNewPullRequestHead&quot;: {
+    &quot;server&quot;: {
+      &quot;useHttp&quot;: false,
+      &quot;host&quot;: &quot;github.com&quot;,
+      &quot;port&quot;: null,
+      &quot;suffix&quot;: null
+    },
+    &quot;owner&quot;: &quot;hardi-virani&quot;,
+    &quot;repository&quot;: &quot;SpringFramworks-SpringBoot-Learnings&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/SpringBoot_di_Eg/src/main/java/com/star/app/ForDI.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="3ADyJ8zHiA9ERbGlNFMrLnD8Sw1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Spring Boot.SpringBootDiEgApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.SpringBootDiEgApplication_2.executor&quot;: &quot;Run&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;feature/section-02-spring-6-basics&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="SpringBootDiEgApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="SpringBoot_di_Eg" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.star.app.SpringBootDiEgApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.31033.145" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff232666-28d6-47d4-ab54-078a9d6fb0cb" name="Changes" comment="" />
+      <created>1762104043408</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1762104043408</updated>
+      <workItem from="1772141362080" duration="21744000" />
+      <workItem from="1772917774573" duration="6468000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1772141946594</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1772141946594</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1772141982406</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1772141982406</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Notes-created">
+      <option name="closed" value="true" />
+      <created>1772143119426</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1772143119426</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Notes-deleted">
+      <option name="closed" value="true" />
+      <created>1772143802824</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1772143802824</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Notes Folder created and Add notes for Section 02 - Spring 6 Basics">
+      <option name="closed" value="true" />
+      <created>1772144170676</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1772144170676</updated>
+    </task>
+    <task id="LOCAL-00006" summary="added .idea">
+      <option name="closed" value="true" />
+      <created>1772144337312</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1772144337312</updated>
+    </task>
+    <task id="LOCAL-00007" summary="added .idea to gitignore">
+      <option name="closed" value="true" />
+      <created>1772144377911</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1772144377911</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Prerequites added in notes">
+      <option name="closed" value="true" />
+      <created>1772198401371</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1772198401371</updated>
+    </task>
+    <task id="LOCAL-00009" summary="IoC &amp; DI notes">
+      <option name="closed" value="true" />
+      <created>1772200401423</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1772200401424</updated>
+    </task>
+    <task id="LOCAL-00010" summary="IoC &amp; DI notes">
+      <option name="closed" value="true" />
+      <created>1772200566942</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1772200566942</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Project Created">
+      <option name="closed" value="true" />
+      <created>1772201062260</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1772201062260</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Project Works">
+      <option name="closed" value="true" />
+      <created>1772201676486</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1772201676486</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Project Works">
+      <option name="closed" value="true" />
+      <created>1772202137754</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1772202137754</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Prerequistes Notes">
+      <option name="closed" value="true" />
+      <created>1772313811033</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1772313811033</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Update .idea">
+      <option name="closed" value="true" />
+      <created>1772314105667</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1772314105667</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Updated gitignore">
+      <option name="closed" value="true" />
+      <created>1772314593500</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1772314593500</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Updated Notes">
+      <option name="closed" value="true" />
+      <created>1772918363146</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1772918363146</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Repaired the broken configuration.">
+      <option name="closed" value="true" />
+      <created>1772920440706</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1772920440706</updated>
+    </task>
+    <task id="LOCAL-00019" summary="DI practice + comments">
+      <option name="closed" value="true" />
+      <created>1772922812588</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1772922812588</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Autowired">
+      <option name="closed" value="true" />
+      <created>1772925540402</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1772925540402</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/main" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="main" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="feature/section-02-spring-6-basics" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="Notes-created" />
+    <MESSAGE value="Notes-deleted" />
+    <MESSAGE value="Notes Folder created and Add notes for Section 02 - Spring 6 Basics" />
+    <MESSAGE value="added .idea" />
+    <MESSAGE value="added .idea to gitignore" />
+    <MESSAGE value="Prerequites added in notes" />
+    <MESSAGE value="IoC &amp; DI notes" />
+    <MESSAGE value="Project Created" />
+    <MESSAGE value="Project Works" />
+    <MESSAGE value="Prerequistes Notes" />
+    <MESSAGE value="Update .idea" />
+    <MESSAGE value="Updated gitignore" />
+    <MESSAGE value="Updated Notes" />
+    <MESSAGE value="Repaired the broken configuration." />
+    <MESSAGE value="DI practice + comments" />
+    <MESSAGE value="Autowired" />
+    <option name="LAST_COMMIT_MESSAGE" value="Autowired" />
+  </component>
+</project>
