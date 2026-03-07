@@ -42,3 +42,7 @@ We will see the simple example of DI.
 So, we don't have anything to specify spring project in intellij (ultimate version have spring but not community) so we need to visit -> spring.start.io 
 You will see spring initializr and have to create a structure for the project. 
 Select maven -> java language -> springBoot version (i am working with 4.something(the lastest version)) -> arfiact: springBoot_di_eg (depends on your choice). -> change the package name if you want to. -> packaging -> jar -> java version 21. (we can add dependency if we want, but for our first project we don't need one). -> And click generate -> we will get the zip file download it and open in intellij.
+
+
+How we are going to inject the dependency injection into our springBoot App?
+-> So when the thing is, if we are going to use springFramework, we use springBoot on top of that.
