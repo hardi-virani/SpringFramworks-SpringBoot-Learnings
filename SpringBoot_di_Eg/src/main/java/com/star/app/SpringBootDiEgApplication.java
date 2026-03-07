@@ -12,8 +12,8 @@ public class SpringBootDiEgApplication {
         ApplicationContext context = SpringApplication.run(SpringBootDiEgApplication.class, args); // Here the run will return the obj context. Basically it means, we have a way to communicate with out IoC container.
 //        System.out.println("Hello, this is my first springBoot project");
 
-        ForDI obj = new ForDI(); // So what if, I dont want to create this obj by myself, I want spring to create this object for me.
-        obj.code();
+//        ForDI obj = new ForDI(); // So what if, I dont want to create this obj by myself, I want spring to create this object for me.
+//        obj.code();
 
         // In spring obj = Bean
         // In reality what it will do it, it will create the container inside the JVM and inside the container there will be the OBJs.
