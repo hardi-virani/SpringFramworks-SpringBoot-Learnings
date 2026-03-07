@@ -46,3 +46,6 @@ Select maven -> java language -> springBoot version (i am working with 4.somethi
 
 How we are going to inject the dependency injection into our springBoot App?
 -> So when the thing is, if we are going to use springFramework, we use springBoot on top of that.
+
+
+Okay, so in the file, SpringBootDiEgApplication, we are using springBoot, and first we understood why and how we are using SpringBoot, we will see what's in the background basically how it works in spring. (I know it pretty confusing in starting but you will get to know as the time passes.)
