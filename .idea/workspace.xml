@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff232666-28d6-47d4-ab54-078a9d6fb0cb" name="Changes" comment="DI practice + comments">
-      <change afterPath="$PROJECT_DIR$/SpringBoot_di_Eg/src/main/java/com/star/app/ForDIDependent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBoot_di_Eg/src/main/java/com/star/app/ForDI.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot_di_Eg/src/main/java/com/star/app/ForDI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBoot_di_Eg/target/classes/com/star/app/SpringBootDiEgApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot_di_Eg/target/classes/com/star/app/SpringBootDiEgApplication.class" afterDir="false" />
-    </list>
+    <list default="true" id="ff232666-28d6-47d4-ab54-078a9d6fb0cb" name="Changes" comment="Autowired" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -145,7 +140,7 @@
       <option name="presentableId" value="Default" />
       <updated>1762104043408</updated>
       <workItem from="1772141362080" duration="21744000" />
-      <workItem from="1772917774573" duration="6054000" />
+      <workItem from="1772917774573" duration="6468000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -299,7 +294,15 @@
       <option name="project" value="LOCAL" />
       <updated>1772922812588</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Autowired">
+      <option name="closed" value="true" />
+      <created>1772925540402</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1772925540402</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -381,6 +384,7 @@
     <MESSAGE value="Updated Notes" />
     <MESSAGE value="Repaired the broken configuration." />
     <MESSAGE value="DI practice + comments" />
-    <option name="LAST_COMMIT_MESSAGE" value="DI practice + comments" />
+    <MESSAGE value="Autowired" />
+    <option name="LAST_COMMIT_MESSAGE" value="Autowired" />
   </component>
 </project>
